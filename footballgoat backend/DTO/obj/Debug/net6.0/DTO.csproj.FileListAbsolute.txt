@@ -1,0 +1,36 @@
+C:\Users\Jan\source\repos\DTO\bin\Debug\net6.0\DTO.deps.json
+C:\Users\Jan\source\repos\DTO\bin\Debug\net6.0\DTO.dll
+C:\Users\Jan\source\repos\DTO\bin\Debug\net6.0\DTO.pdb
+C:\Users\Jan\source\repos\DTO\obj\Debug\net6.0\DTO.csproj.AssemblyReference.cache
+C:\Users\Jan\source\repos\DTO\obj\Debug\net6.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jan\source\repos\DTO\obj\Debug\net6.0\DTO.AssemblyInfoInputs.cache
+C:\Users\Jan\source\repos\DTO\obj\Debug\net6.0\DTO.AssemblyInfo.cs
+C:\Users\Jan\source\repos\DTO\obj\Debug\net6.0\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Jan\source\repos\DTO\obj\Debug\net6.0\DTO.dll
+C:\Users\Jan\source\repos\DTO\obj\Debug\net6.0\refint\DTO.dll
+C:\Users\Jan\source\repos\DTO\obj\Debug\net6.0\DTO.pdb
+C:\Users\Jan\source\repos\DTO\obj\Debug\net6.0\ref\DTO.dll
+C:\Users\Jan\Documents\GitHub\footballgoat\DTO\bin\Debug\net6.0\DTO.deps.json
+C:\Users\Jan\Documents\GitHub\footballgoat\DTO\bin\Debug\net6.0\DTO.dll
+C:\Users\Jan\Documents\GitHub\footballgoat\DTO\bin\Debug\net6.0\DTO.pdb
+C:\Users\Jan\Documents\GitHub\footballgoat\DTO\obj\Debug\net6.0\DTO.csproj.AssemblyReference.cache
+C:\Users\Jan\Documents\GitHub\footballgoat\DTO\obj\Debug\net6.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jan\Documents\GitHub\footballgoat\DTO\obj\Debug\net6.0\DTO.AssemblyInfoInputs.cache
+C:\Users\Jan\Documents\GitHub\footballgoat\DTO\obj\Debug\net6.0\DTO.AssemblyInfo.cs
+C:\Users\Jan\Documents\GitHub\footballgoat\DTO\obj\Debug\net6.0\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Jan\Documents\GitHub\footballgoat\DTO\obj\Debug\net6.0\DTO.dll
+C:\Users\Jan\Documents\GitHub\footballgoat\DTO\obj\Debug\net6.0\refint\DTO.dll
+C:\Users\Jan\Documents\GitHub\footballgoat\DTO\obj\Debug\net6.0\DTO.pdb
+C:\Users\Jan\Documents\GitHub\footballgoat\DTO\obj\Debug\net6.0\ref\DTO.dll
+C:\Users\Jan\Documents\GitHub\footballgoat\footballgoat backend\DTO\bin\Debug\net6.0\DTO.deps.json
+C:\Users\Jan\Documents\GitHub\footballgoat\footballgoat backend\DTO\bin\Debug\net6.0\DTO.dll
+C:\Users\Jan\Documents\GitHub\footballgoat\footballgoat backend\DTO\bin\Debug\net6.0\DTO.pdb
+C:\Users\Jan\Documents\GitHub\footballgoat\footballgoat backend\DTO\obj\Debug\net6.0\DTO.csproj.AssemblyReference.cache
+C:\Users\Jan\Documents\GitHub\footballgoat\footballgoat backend\DTO\obj\Debug\net6.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jan\Documents\GitHub\footballgoat\footballgoat backend\DTO\obj\Debug\net6.0\DTO.AssemblyInfoInputs.cache
+C:\Users\Jan\Documents\GitHub\footballgoat\footballgoat backend\DTO\obj\Debug\net6.0\DTO.AssemblyInfo.cs
+C:\Users\Jan\Documents\GitHub\footballgoat\footballgoat backend\DTO\obj\Debug\net6.0\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Jan\Documents\GitHub\footballgoat\footballgoat backend\DTO\obj\Debug\net6.0\DTO.dll
+C:\Users\Jan\Documents\GitHub\footballgoat\footballgoat backend\DTO\obj\Debug\net6.0\refint\DTO.dll
+C:\Users\Jan\Documents\GitHub\footballgoat\footballgoat backend\DTO\obj\Debug\net6.0\DTO.pdb
+C:\Users\Jan\Documents\GitHub\footballgoat\footballgoat backend\DTO\obj\Debug\net6.0\ref\DTO.dll

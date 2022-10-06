@@ -1,0 +1,45 @@
+C:\Users\Jan\source\repos\DAL\bin\Debug\net6.0\DAL.deps.json
+C:\Users\Jan\source\repos\DAL\bin\Debug\net6.0\DAL.dll
+C:\Users\Jan\source\repos\DAL\bin\Debug\net6.0\DAL.pdb
+C:\Users\Jan\source\repos\DAL\bin\Debug\net6.0\DTO.dll
+C:\Users\Jan\source\repos\DAL\bin\Debug\net6.0\DTO.pdb
+C:\Users\Jan\source\repos\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+C:\Users\Jan\source\repos\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jan\source\repos\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\Users\Jan\source\repos\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\Users\Jan\source\repos\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Jan\source\repos\DAL\obj\Debug\net6.0\DAL.csproj.CopyComplete
+C:\Users\Jan\source\repos\DAL\obj\Debug\net6.0\DAL.dll
+C:\Users\Jan\source\repos\DAL\obj\Debug\net6.0\refint\DAL.dll
+C:\Users\Jan\source\repos\DAL\obj\Debug\net6.0\DAL.pdb
+C:\Users\Jan\source\repos\DAL\obj\Debug\net6.0\ref\DAL.dll
+C:\Users\Jan\Documents\GitHub\footballgoat\DAL\bin\Debug\net6.0\DAL.deps.json
+C:\Users\Jan\Documents\GitHub\footballgoat\DAL\bin\Debug\net6.0\DAL.dll
+C:\Users\Jan\Documents\GitHub\footballgoat\DAL\bin\Debug\net6.0\DAL.pdb
+C:\Users\Jan\Documents\GitHub\footballgoat\DAL\bin\Debug\net6.0\DTO.dll
+C:\Users\Jan\Documents\GitHub\footballgoat\DAL\bin\Debug\net6.0\DTO.pdb
+C:\Users\Jan\Documents\GitHub\footballgoat\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+C:\Users\Jan\Documents\GitHub\footballgoat\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jan\Documents\GitHub\footballgoat\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\Users\Jan\Documents\GitHub\footballgoat\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\Users\Jan\Documents\GitHub\footballgoat\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Jan\Documents\GitHub\footballgoat\DAL\obj\Debug\net6.0\DAL.csproj.CopyComplete
+C:\Users\Jan\Documents\GitHub\footballgoat\DAL\obj\Debug\net6.0\DAL.dll
+C:\Users\Jan\Documents\GitHub\footballgoat\DAL\obj\Debug\net6.0\refint\DAL.dll
+C:\Users\Jan\Documents\GitHub\footballgoat\DAL\obj\Debug\net6.0\DAL.pdb
+C:\Users\Jan\Documents\GitHub\footballgoat\DAL\obj\Debug\net6.0\ref\DAL.dll
+C:\Users\Jan\Documents\GitHub\footballgoat\footballgoat backend\DAL\bin\Debug\net6.0\DAL.deps.json
+C:\Users\Jan\Documents\GitHub\footballgoat\footballgoat backend\DAL\bin\Debug\net6.0\DAL.dll
+C:\Users\Jan\Documents\GitHub\footballgoat\footballgoat backend\DAL\bin\Debug\net6.0\DAL.pdb
+C:\Users\Jan\Documents\GitHub\footballgoat\footballgoat backend\DAL\bin\Debug\net6.0\DTO.dll
+C:\Users\Jan\Documents\GitHub\footballgoat\footballgoat backend\DAL\bin\Debug\net6.0\DTO.pdb
+C:\Users\Jan\Documents\GitHub\footballgoat\footballgoat backend\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+C:\Users\Jan\Documents\GitHub\footballgoat\footballgoat backend\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jan\Documents\GitHub\footballgoat\footballgoat backend\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\Users\Jan\Documents\GitHub\footballgoat\footballgoat backend\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\Users\Jan\Documents\GitHub\footballgoat\footballgoat backend\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Jan\Documents\GitHub\footballgoat\footballgoat backend\DAL\obj\Debug\net6.0\DAL.csproj.CopyComplete
+C:\Users\Jan\Documents\GitHub\footballgoat\footballgoat backend\DAL\obj\Debug\net6.0\DAL.dll
+C:\Users\Jan\Documents\GitHub\footballgoat\footballgoat backend\DAL\obj\Debug\net6.0\refint\DAL.dll
+C:\Users\Jan\Documents\GitHub\footballgoat\footballgoat backend\DAL\obj\Debug\net6.0\DAL.pdb
+C:\Users\Jan\Documents\GitHub\footballgoat\footballgoat backend\DAL\obj\Debug\net6.0\ref\DAL.dll
