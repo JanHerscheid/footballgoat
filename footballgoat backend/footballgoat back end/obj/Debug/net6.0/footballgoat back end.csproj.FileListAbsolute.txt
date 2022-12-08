@@ -105,3 +105,44 @@ C:\Users\Jan\Documents\GitHub\footballgoat\footballgoat backend\footballgoat bac
 C:\Users\Jan\Documents\GitHub\footballgoat\footballgoat backend\footballgoat back end\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
 C:\Users\Jan\Documents\GitHub\footballgoat\footballgoat backend\footballgoat back end\bin\Debug\net6.0\Humanizer.dll
 C:\Users\Jan\Documents\GitHub\footballgoat\footballgoat backend\footballgoat back end\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Nibbl\Documents\GitHub\footballgoat\footballgoat backend\footballgoat back end\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Nibbl\Documents\GitHub\footballgoat\footballgoat backend\footballgoat back end\bin\Debug\net6.0\appsettings.json
+C:\Users\Nibbl\Documents\GitHub\footballgoat\footballgoat backend\footballgoat back end\bin\Debug\net6.0\footballgoat back end.exe
+C:\Users\Nibbl\Documents\GitHub\footballgoat\footballgoat backend\footballgoat back end\bin\Debug\net6.0\footballgoat back end.deps.json
+C:\Users\Nibbl\Documents\GitHub\footballgoat\footballgoat backend\footballgoat back end\bin\Debug\net6.0\footballgoat back end.runtimeconfig.json
+C:\Users\Nibbl\Documents\GitHub\footballgoat\footballgoat backend\footballgoat back end\bin\Debug\net6.0\footballgoat back end.dll
+C:\Users\Nibbl\Documents\GitHub\footballgoat\footballgoat backend\footballgoat back end\bin\Debug\net6.0\footballgoat back end.pdb
+C:\Users\Nibbl\Documents\GitHub\footballgoat\footballgoat backend\footballgoat back end\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Nibbl\Documents\GitHub\footballgoat\footballgoat backend\footballgoat back end\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Nibbl\Documents\GitHub\footballgoat\footballgoat backend\footballgoat back end\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Nibbl\Documents\GitHub\footballgoat\footballgoat backend\footballgoat back end\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Nibbl\Documents\GitHub\footballgoat\footballgoat backend\footballgoat back end\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Nibbl\Documents\GitHub\footballgoat\footballgoat backend\footballgoat back end\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Nibbl\Documents\GitHub\footballgoat\footballgoat backend\footballgoat back end\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Nibbl\Documents\GitHub\footballgoat\footballgoat backend\footballgoat back end\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\Nibbl\Documents\GitHub\footballgoat\footballgoat backend\footballgoat back end\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Nibbl\Documents\GitHub\footballgoat\footballgoat backend\footballgoat back end\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Nibbl\Documents\GitHub\footballgoat\footballgoat backend\footballgoat back end\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Nibbl\Documents\GitHub\footballgoat\footballgoat backend\footballgoat back end\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Nibbl\Documents\GitHub\footballgoat\footballgoat backend\footballgoat back end\bin\Debug\net6.0\DAL.dll
+C:\Users\Nibbl\Documents\GitHub\footballgoat\footballgoat backend\footballgoat back end\bin\Debug\net6.0\DTO.dll
+C:\Users\Nibbl\Documents\GitHub\footballgoat\footballgoat backend\footballgoat back end\bin\Debug\net6.0\Logic.dll
+C:\Users\Nibbl\Documents\GitHub\footballgoat\footballgoat backend\footballgoat back end\bin\Debug\net6.0\DAL.pdb
+C:\Users\Nibbl\Documents\GitHub\footballgoat\footballgoat backend\footballgoat back end\bin\Debug\net6.0\DTO.pdb
+C:\Users\Nibbl\Documents\GitHub\footballgoat\footballgoat backend\footballgoat back end\bin\Debug\net6.0\Logic.pdb
+C:\Users\Nibbl\Documents\GitHub\footballgoat\footballgoat backend\footballgoat back end\obj\Debug\net6.0\footballgoat back end.csproj.AssemblyReference.cache
+C:\Users\Nibbl\Documents\GitHub\footballgoat\footballgoat backend\footballgoat back end\obj\Debug\net6.0\footballgoat back end.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nibbl\Documents\GitHub\footballgoat\footballgoat backend\footballgoat back end\obj\Debug\net6.0\footballgoat back end.AssemblyInfoInputs.cache
+C:\Users\Nibbl\Documents\GitHub\footballgoat\footballgoat backend\footballgoat back end\obj\Debug\net6.0\footballgoat back end.AssemblyInfo.cs
+C:\Users\Nibbl\Documents\GitHub\footballgoat\footballgoat backend\footballgoat back end\obj\Debug\net6.0\footballgoat back end.csproj.CoreCompileInputs.cache
+C:\Users\Nibbl\Documents\GitHub\footballgoat\footballgoat backend\footballgoat back end\obj\Debug\net6.0\footballgoat back end.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Nibbl\Documents\GitHub\footballgoat\footballgoat backend\footballgoat back end\obj\Debug\net6.0\footballgoat back end.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Nibbl\Documents\GitHub\footballgoat\footballgoat backend\footballgoat back end\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Nibbl\Documents\GitHub\footballgoat\footballgoat backend\footballgoat back end\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Nibbl\Documents\GitHub\footballgoat\footballgoat backend\footballgoat back end\obj\Debug\net6.0\scopedcss\bundle\footballgoat back end.styles.css
+C:\Users\Nibbl\Documents\GitHub\footballgoat\footballgoat backend\footballgoat back end\obj\Debug\net6.0\footballgoat back end.csproj.CopyComplete
+C:\Users\Nibbl\Documents\GitHub\footballgoat\footballgoat backend\footballgoat back end\obj\Debug\net6.0\footballgoat back end.dll
+C:\Users\Nibbl\Documents\GitHub\footballgoat\footballgoat backend\footballgoat back end\obj\Debug\net6.0\refint\footballgoat back end.dll
+C:\Users\Nibbl\Documents\GitHub\footballgoat\footballgoat backend\footballgoat back end\obj\Debug\net6.0\footballgoat back end.pdb
+C:\Users\Nibbl\Documents\GitHub\footballgoat\footballgoat backend\footballgoat back end\obj\Debug\net6.0\footballgoat back end.genruntimeconfig.cache
+C:\Users\Nibbl\Documents\GitHub\footballgoat\footballgoat backend\footballgoat back end\obj\Debug\net6.0\ref\footballgoat back end.dll
