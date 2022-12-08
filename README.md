@@ -23,3 +23,11 @@ Football goat is een website die zich focust op het bezorgen van de laatste voet
 
 ## C2 diagram
 ![C2](design/C2.png?raw=true "C2")
+
+# Leerdoelen
+
+## 1. Web application
+"You design and build user-friendly, full-stack web applications."
+
+
+

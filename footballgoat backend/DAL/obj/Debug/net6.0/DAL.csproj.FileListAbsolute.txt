@@ -43,3 +43,5 @@ C:\Users\Jan\Documents\GitHub\footballgoat\footballgoat backend\DAL\obj\Debug\ne
 C:\Users\Jan\Documents\GitHub\footballgoat\footballgoat backend\DAL\obj\Debug\net6.0\refint\DAL.dll
 C:\Users\Jan\Documents\GitHub\footballgoat\footballgoat backend\DAL\obj\Debug\net6.0\DAL.pdb
 C:\Users\Jan\Documents\GitHub\footballgoat\footballgoat backend\DAL\obj\Debug\net6.0\ref\DAL.dll
+C:\Users\Jan\Documents\GitHub\footballgoat\footballgoat backend\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+C:\Users\Jan\Documents\GitHub\footballgoat\footballgoat backend\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache

@@ -27,5 +27,11 @@ namespace footballgoat_back_end.Controllers
         public void AddPlayer(string name, int clubid, Position Position) { 
             _playerLogic.AddPlayer(name, clubid, Position);
         }
+
+        [HttpGet]
+        [Route("GetClubSquad")]
+        public IEnumerable<PlayerDTO> getPlayersByClub(int clubid) {
+            return _playerLogic.getPlayersByClub(clubid);
+        }
     }
 }

@@ -6,5 +6,6 @@ namespace DAL.Interfaces
     {
         IEnumerable<PlayerDTO> getAllPlayers();
         void AddPlayer(string name, int clubid, Position Position);
+        IEnumerable<PlayerDTO> getPlayersByClub(int clubid);
     }
 }

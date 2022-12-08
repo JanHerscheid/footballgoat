@@ -3,6 +3,7 @@ using DAL.Handlers;
 using DAL.Interfaces;
 using Logic;
 using Logic.Interfaces;
+using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -13,8 +14,15 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-builder.Services.AddSingleton<IPlayerHandler, PlayerHandler>();
-builder.Services.AddSingleton<IPlayerLogic, PlayerLogic>();
+builder.Services.AddTransient<IPlayerHandler, PlayerHandler>();
+builder.Services.AddTransient<IPlayerLogic, PlayerLogic>();
+
+/*
+builder.Services.AddDbContext<ApplicationDataContext>(options =>
+{
+    options.UseMySql(builder.Configuration.GetConnectionString("Server=studmysql01.fhict.local;Uid=dbi406978;Database=dbi406978;Pwd=Sudblamzud2;"), ServerVersion.AutoDetect(builder.Configuration.GetConnectionString("Server=studmysql01.fhict.local;Uid=dbi406978;Database=dbi406978;Pwd=Sudblamzud2;")));
+});
+*/
 
 var app = builder.Build();
 
