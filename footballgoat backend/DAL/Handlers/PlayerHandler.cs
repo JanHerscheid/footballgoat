@@ -15,14 +15,24 @@ namespace DAL.Handlers
         public PlayerHandler()
         {
             players = new List<PlayerDTO>();
-            players.Add(new PlayerDTO(1, "Antony", 3, Position.Attacker));
-            players.Add(new PlayerDTO(2, "Virgil van Dijk", 4, Position.Defender));
-            players.Add(new PlayerDTO(3, "Kevin de Bruyne", 5, Position.Midfielder));
+            players.Add(new PlayerDTO("Antony", 3, Position.Attacker));
+            players.Add(new PlayerDTO("Virgil van Dijk", 4, Position.Defender));
+            players.Add(new PlayerDTO("Kevin de Bruyne", 5, Position.Midfielder));
         }
 
         public IEnumerable<PlayerDTO> getAllPlayers()
         {
             return players;
+        }
+
+        public void AddPlayer(string name, int clubid, Position Position)
+        {
+            using (var context = new ApplicationDataContext())
+            {
+                context.Database.EnsureCreated();
+                context.Players.Add(new PlayerDTO(name, clubid, Position));
+                context.SaveChanges();
+            }
         }
     }
 }

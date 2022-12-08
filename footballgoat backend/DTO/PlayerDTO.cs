@@ -1,5 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations.Schema;
+using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -15,14 +17,15 @@ namespace DTO
     }
     public class PlayerDTO
     {
+        [Key]
+        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public int Id { get; set; }
         public string Name { get; set; }
         public int ClubId { get; set; }
         public Position Position { get; set; }
 
-        public PlayerDTO(int id, string name, int clubId, Position position)
+        public PlayerDTO(string name, int clubId, Position position)
         {
-            Id = id;
             Name = name;
             ClubId = clubId;
             Position = position;

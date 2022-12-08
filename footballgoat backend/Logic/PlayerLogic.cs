@@ -22,5 +22,9 @@ namespace Logic
         {
             return _playerHandler.getAllPlayers();
         }
+
+        public void AddPlayer(string name, int clubid, Position Position) { 
+            _playerHandler.AddPlayer(name, clubid, Position);
+        }
     }
 }

@@ -21,5 +21,11 @@ namespace footballgoat_back_end.Controllers
         {
             return _playerLogic.getAllPlayers();
         }
+
+        [HttpPost]
+        [Route("Add")]
+        public void AddPlayer(string name, int clubid, Position Position) { 
+            _playerLogic.AddPlayer(name, clubid, Position);
+        }
     }
 }
