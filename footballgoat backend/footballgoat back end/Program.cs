@@ -16,6 +16,8 @@ builder.Services.AddSwaggerGen();
 
 builder.Services.AddTransient<IPlayerHandler, PlayerHandler>();
 builder.Services.AddTransient<IPlayerLogic, PlayerLogic>();
+builder.Services.AddTransient<IClubHandler, ClubHandler>();
+builder.Services.AddTransient<IClubLogic, ClubLogic>();
 
 /*
 builder.Services.AddDbContext<ApplicationDataContext>(options =>
@@ -28,6 +30,8 @@ var app = builder.Build();
 
 IPlayerHandler playerHandler = app.Services.GetRequiredService<IPlayerHandler>();
 IPlayerLogic playerLogic = app.Services.GetRequiredService<IPlayerLogic>();
+IClubHandler clubHandler = app.Services.GetRequiredService<IClubHandler>();
+IClubLogic clubLogic = app.Services.GetRequiredService<IClubLogic>();
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())

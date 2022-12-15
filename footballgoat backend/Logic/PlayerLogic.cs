@@ -30,5 +30,13 @@ namespace Logic
         public IEnumerable<PlayerDTO> getPlayersByClub(int clubid) {
             return _playerHandler.getPlayersByClub(clubid);
         }
+
+        public PlayerDTO getPlayerById(int id) { 
+            return _playerHandler.GetById(id);
+        }
+
+        public void TransferPlayer(int clubId, int playerId) {
+            _playerHandler.TransferPlayer(clubId, playerId);
+        }
     }
 }

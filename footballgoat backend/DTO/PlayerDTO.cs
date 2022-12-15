@@ -21,14 +21,7 @@ namespace DTO
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public int Id { get; set; }
         public string Name { get; set; }
-        public int ClubId { get; set; }
         public Position Position { get; set; }
-
-        public PlayerDTO(string name, int clubId, Position position)
-        {
-            Name = name;
-            ClubId = clubId;
-            Position = position;
-        }
+        public ClubDTO Club { get; set; }
     }
 }

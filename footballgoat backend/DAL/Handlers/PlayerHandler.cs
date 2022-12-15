@@ -32,7 +32,7 @@ namespace DAL.Handlers
         {
             using (var context = new ApplicationDataContext())
             {
-                return context.Players;
+                return context.Players.ToList();
             }
         }
 
@@ -40,7 +40,7 @@ namespace DAL.Handlers
         {
             using (var context = new ApplicationDataContext())
             {
-                return context.Players.Where(x => x.ClubId == clubid);
+                return context.Players.Where(x => x.Club.Id == clubid);
             }
         }
 
@@ -49,9 +49,33 @@ namespace DAL.Handlers
             using (var context = new ApplicationDataContext())
             {
                 context.Database.EnsureCreated();
-                context.Players.Add(new PlayerDTO(name, clubid, Position));
+                context.Players.Add(new PlayerDTO { 
+                    Name = name,
+                    Position = Position
+
+                });
                 context.SaveChanges();
                 context.Dispose();
+            }
+        }
+
+        public PlayerDTO GetById(int playerId)
+        {
+            using (var context = new ApplicationDataContext())
+            {
+                return context.Players.First(x => x.Id == playerId);
+            }
+        }
+
+        public void TransferPlayer(int clubId, int playerId) {
+            using (var context = new ApplicationDataContext())
+            {
+                var player = context.Players.First(x => x.Id == playerId);
+                var newClub = context.Clubs.First(x => x.Id == clubId);
+
+                player.Club = newClub;
+
+                context.SaveChanges();
             }
         }
     }

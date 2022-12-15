@@ -835,19 +835,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Nibbl\\.nuget\\packages\\": {}
+    "C:\\Users\\Jan\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nibbl\\Documents\\GitHub\\footballgoat\\footballgoat backend\\DAL\\DAL.csproj",
+      "projectUniqueName": "C:\\Users\\Jan\\Documents\\GitHub\\footballgoat\\footballgoat backend\\DAL\\DAL.csproj",
       "projectName": "DAL",
-      "projectPath": "C:\\Users\\Nibbl\\Documents\\GitHub\\footballgoat\\footballgoat backend\\DAL\\DAL.csproj",
-      "packagesPath": "C:\\Users\\Nibbl\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nibbl\\Documents\\GitHub\\footballgoat\\footballgoat backend\\DAL\\obj\\",
+      "projectPath": "C:\\Users\\Jan\\Documents\\GitHub\\footballgoat\\footballgoat backend\\DAL\\DAL.csproj",
+      "packagesPath": "C:\\Users\\Jan\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Jan\\Documents\\GitHub\\footballgoat\\footballgoat backend\\DAL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Nibbl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Jan\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -861,8 +861,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Nibbl\\Documents\\GitHub\\footballgoat\\footballgoat backend\\DTO\\DTO.csproj": {
-              "projectPath": "C:\\Users\\Nibbl\\Documents\\GitHub\\footballgoat\\footballgoat backend\\DTO\\DTO.csproj"
+            "C:\\Users\\Jan\\Documents\\GitHub\\footballgoat\\footballgoat backend\\DTO\\DTO.csproj": {
+              "projectPath": "C:\\Users\\Jan\\Documents\\GitHub\\footballgoat\\footballgoat backend\\DTO\\DTO.csproj"
             }
           }
         }

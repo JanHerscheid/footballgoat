@@ -6860,19 +6860,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Nibbl\\.nuget\\packages\\": {}
+    "C:\\Users\\Jan\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nibbl\\Documents\\GitHub\\footballgoat\\footballgoat backend\\Tests\\Tests.csproj",
+      "projectUniqueName": "C:\\Users\\Jan\\Documents\\GitHub\\footballgoat\\footballgoat backend\\Tests\\Tests.csproj",
       "projectName": "Tests",
-      "projectPath": "C:\\Users\\Nibbl\\Documents\\GitHub\\footballgoat\\footballgoat backend\\Tests\\Tests.csproj",
-      "packagesPath": "C:\\Users\\Nibbl\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nibbl\\Documents\\GitHub\\footballgoat\\footballgoat backend\\Tests\\obj\\",
+      "projectPath": "C:\\Users\\Jan\\Documents\\GitHub\\footballgoat\\footballgoat backend\\Tests\\Tests.csproj",
+      "packagesPath": "C:\\Users\\Jan\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Jan\\Documents\\GitHub\\footballgoat\\footballgoat backend\\Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Nibbl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Jan\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -6886,14 +6886,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Nibbl\\Documents\\GitHub\\footballgoat\\footballgoat backend\\DAL\\DAL.csproj": {
-              "projectPath": "C:\\Users\\Nibbl\\Documents\\GitHub\\footballgoat\\footballgoat backend\\DAL\\DAL.csproj"
+            "C:\\Users\\Jan\\Documents\\GitHub\\footballgoat\\footballgoat backend\\DAL\\DAL.csproj": {
+              "projectPath": "C:\\Users\\Jan\\Documents\\GitHub\\footballgoat\\footballgoat backend\\DAL\\DAL.csproj"
             },
-            "C:\\Users\\Nibbl\\Documents\\GitHub\\footballgoat\\footballgoat backend\\DTO\\DTO.csproj": {
-              "projectPath": "C:\\Users\\Nibbl\\Documents\\GitHub\\footballgoat\\footballgoat backend\\DTO\\DTO.csproj"
+            "C:\\Users\\Jan\\Documents\\GitHub\\footballgoat\\footballgoat backend\\DTO\\DTO.csproj": {
+              "projectPath": "C:\\Users\\Jan\\Documents\\GitHub\\footballgoat\\footballgoat backend\\DTO\\DTO.csproj"
             },
-            "C:\\Users\\Nibbl\\Documents\\GitHub\\footballgoat\\footballgoat backend\\Logic\\Logic.csproj": {
-              "projectPath": "C:\\Users\\Nibbl\\Documents\\GitHub\\footballgoat\\footballgoat backend\\Logic\\Logic.csproj"
+            "C:\\Users\\Jan\\Documents\\GitHub\\footballgoat\\footballgoat backend\\Logic\\Logic.csproj": {
+              "projectPath": "C:\\Users\\Jan\\Documents\\GitHub\\footballgoat\\footballgoat backend\\Logic\\Logic.csproj"
             }
           }
         }

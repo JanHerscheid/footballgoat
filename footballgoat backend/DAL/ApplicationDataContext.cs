@@ -23,6 +23,7 @@ namespace DAL
         */
 
         public DbSet<PlayerDTO> Players { get; set; }
+        public DbSet<ClubDTO> Clubs { get; set; }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
@@ -33,13 +34,13 @@ namespace DAL
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            base.OnModelCreating(modelBuilder);
+            modelBuilder.Entity<PlayerDTO>().HasKey(p => new { p.Id });
+            modelBuilder.Entity<ClubDTO>().HasKey(c => new { c.Id });
 
-            modelBuilder.Entity<PlayerDTO>(entity =>
-            {
-                entity.HasKey(e => e.Id);
-                entity.Property(e => e.Name).IsRequired();
-            });
+            modelBuilder.Entity<PlayerDTO>()
+                .HasOne(p => p.Club)
+                .WithMany(c => c.Players);
+
         }
     }
 }
