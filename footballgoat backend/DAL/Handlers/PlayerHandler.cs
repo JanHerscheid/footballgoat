@@ -40,7 +40,7 @@ namespace DAL.Handlers
         {
             using (var context = new ApplicationDataContext())
             {
-                return context.Players.Where(x => x.Club.Id == clubid);
+                return context.Players.Where(x => x.Club.Id == clubid).ToList();
             }
         }
 
